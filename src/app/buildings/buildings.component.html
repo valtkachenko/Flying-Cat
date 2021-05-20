@@ -1,0 +1,8 @@
+<div class="background">
+  <img
+    [@isAnimationStarted]="isAnimationStarted"
+    (@isAnimationStarted.done)="animationFinished()"
+    [src]="buildingsImage.src"
+    [alt]="buildingsImage.alt"
+  >
+</div>

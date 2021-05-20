@@ -1,0 +1,14 @@
+.background {
+  position: relative;
+}
+
+.cat {
+  zoom: 0.5;
+}
+
+.meowBubble {
+  position: absolute;
+  bottom: 100%;
+  right: 0;
+  zoom: 0.5;
+}

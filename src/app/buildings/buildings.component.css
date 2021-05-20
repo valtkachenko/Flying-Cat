@@ -1,0 +1,6 @@
+.background {
+  display: grid;
+  justify-content: center;
+  width: 100%;
+  zoom: 0.5;
+}
